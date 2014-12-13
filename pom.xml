@@ -47,7 +47,7 @@ org.codehaus.stax2, org.codehaus.stax2.io, org.codehaus.stax2.ri, org.codehaus.s
 org.codehaus.stax2.validation,
 org.codehaus.stax2.ri.dom, org.codehaus.stax2.ri.evt, org.codehaus.stax2.ri.typed,
 org.w3c.dom,
-org.xml.sax, org.xml.sax.ext, org.xml.sax.helpers</osgi.import>
+org.xml.sax, org.xml.sax.ext, org.xml.sax.helpers, javax.xml</osgi.import>
   </properties>
 
   <dependencies>
